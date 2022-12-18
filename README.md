@@ -15,13 +15,6 @@ Repository with the components for building the EC-core-i9, a student made proce
             <br />
             <sub><b>Daniel Contente Romanzini</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Guichiarotto">
-            <img src="https://avatars.githubusercontent.com/u/110139874?v=4" width="100;" alt="Guichiarotto"/>
-            <br />
-            <sub><b>Guilherme Chiarotto De Moraes</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
