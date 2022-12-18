@@ -1,0 +1,6 @@
+DATE = "15:02:07 September 21, 2022"
+QUARTUS_VERSION = "16.0.0"
+
+# Revisions
+
+PROJECT_REVISION = "DE10_LITE_decode"
