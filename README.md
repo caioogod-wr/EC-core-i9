@@ -1,6 +1,6 @@
 # EC-core-i9
 
-Repository with the components for building the EC-core-i9, a student made processor that up to this point has an ULA, a Register Bank and a Decoder with a Control Machine in early development phase. Those have been successfully implemented using Intel Quartus and executed in an Intel FPGA.
+Repository with the components for building the EC-core-i9, a student made processor that up to this point has an ULA, a Register Bank and a Decoder with a Control Machine in early development phase. Those have been successfully implemented using Intel Quartus and executed in an Intel DE10-Lite FPGA.
 
 ![EC-Core-i9](https://user-images.githubusercontent.com/86164187/208320217-023d8627-6a12-428d-becf-0830a1b595c8.png)
 
